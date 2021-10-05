@@ -20,3 +20,5 @@ bash requirement.sh
 python2 Tracker.py
 
 Ready to use!!
+# Contact
+Discord: Negro100pesos#4439
