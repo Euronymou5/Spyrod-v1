@@ -1,6 +1,6 @@
 # Ip-track
-A simple tool programmed in python to track ip
-# Installation
+Una simple herramienta para rastrear Ip programada en Python
+# Instalacion
 
 apt install git python python2
 
@@ -16,6 +16,6 @@ bash requirements.sh
 
 python2 Tracker.py
 
-Ready to use!!
-# Contact
+Listo para usar!!
+# Contacto
 Discord: Negro100pesos#4439
