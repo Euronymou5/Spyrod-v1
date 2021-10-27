@@ -1,4 +1,4 @@
-# Ip-track
+# Spyrod v1
 Una simple herramienta para rastrear Ip programada en Python
 # Instalacion
 
@@ -6,13 +6,13 @@ apt install git python python2
 
 cd $HOME
 
-git clone https://github.com/Euronymou5/Ip-track
+git clone https://github.com/Euronymou5/Spyrod-v1
 
-cd Ip-track
+cd Spyrod-v1
 
 chmod +x requirements.sh Tracker.py
 
-bash requirements.sh
+bash requirements.sh / Linux: sudo bash requirements.sh
 
 python2 Tracker.py
 
