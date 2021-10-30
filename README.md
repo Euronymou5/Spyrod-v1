@@ -1,5 +1,5 @@
 # Spyrod v1
-Una simple herramienta para rastrear Ip programada en Python
+Una simple herramienta para rastrear IP programada en Python
 # Instalacion
 
 apt install git python python2
