@@ -10,11 +10,11 @@ git clone https://github.com/Euronymou5/Spyrod-v1
 
 cd Spyrod-v1
 
-chmod +x requirements.sh Tracker.py
+chmod +x requirements.sh spyrod.py
 
 bash requirements.sh / Linux: sudo bash requirements.sh
 
-python2 Tracker.py
+python2 spyrod.py
 
 Listo para usar!!
 # Contacto
